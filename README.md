@@ -1,2 +1,2 @@
 # kafkafluxclicker
-minimal example of graphql subscriptions with the flux pattern and kafka
+minimal example of graphql subscriptions with the flux pattern and kafka on k8s
